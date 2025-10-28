@@ -1,0 +1,4 @@
+[app]
+name = "sulva-api"
+provider = "php"
+directory = "www"
